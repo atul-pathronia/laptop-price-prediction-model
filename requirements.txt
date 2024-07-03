@@ -1,7 +1,4 @@
-pandas
-numpy
-seaborn
-matplotlib  
-plotly
-warnings
+streamlit
+pickle
+numpy 
 sklearn
